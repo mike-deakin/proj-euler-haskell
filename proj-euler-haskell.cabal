@@ -24,6 +24,7 @@ library
       Problem001
       Problem002
       Problem003
+      Problem004
       Solutions
   other-modules:
       Paths_proj_euler_haskell
