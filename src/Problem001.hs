@@ -1,6 +1,5 @@
 module Problem001 (solution) where
 
-import Data.Bool
 import Solutions
 
 fizzBuzz :: Int -> Bool

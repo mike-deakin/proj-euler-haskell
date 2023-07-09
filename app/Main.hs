@@ -1,7 +1,7 @@
 module Main where
 
-import Problem001 (solution)
+import Problem002 (solution)
 
 main :: IO ()
 main = do
-  putStrLn $ show $ solution Nothing
+  print $ solution Nothing

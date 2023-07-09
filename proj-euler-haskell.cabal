@@ -22,6 +22,7 @@ source-repository head
 library
   exposed-modules:
       Problem001
+      Problem002
       Solutions
   other-modules:
       Paths_proj_euler_haskell
