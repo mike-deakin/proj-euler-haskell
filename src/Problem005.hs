@@ -1,8 +1,6 @@
-{-# LANGUAGE PartialTypeSignatures #-}
 module Problem005 where
 
 import Solutions
-import Data.Numbers.Primes (primeFactors)
 
 divisors :: [Int]
 divisors = [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]

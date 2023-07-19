@@ -1,7 +1,7 @@
 module Main where
 
-import Problem005 (solution)
+import Problem006 (solution, directSolution)
 
 main :: IO ()
 main = do
-  print $ solution Nothing
+  print $ directSolution Nothing
